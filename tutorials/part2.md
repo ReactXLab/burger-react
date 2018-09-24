@@ -50,5 +50,5 @@ BurgerBuilder 傳遞 state 參數 Burger 的 props 接收得知沙拉、起司�
 
 
 ### 119 Adding the Build Control Component
-
+建立資料夾 BuildControls
 
